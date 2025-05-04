@@ -1,4 +1,4 @@
-import PizzaEntity from "../entities/pizza";
+import PizzaEntity from "../types/pizza";
 
 export interface PizzaProps {
   pizza: PizzaEntity;

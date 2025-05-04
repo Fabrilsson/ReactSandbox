@@ -1,4 +1,4 @@
-import PizzaEntity from "../entities/pizza";
+import PizzaEntity from "../types/pizza";
 import Pizza from "./pizza";
 import { v4 as uuidv4 } from "uuid";
 
